@@ -1,7 +1,7 @@
 # Arknights: Endfield Operator Sorter (endfieldsort)
 An Arknights: Endfield operator sorter with more features and filters that based on [execfera's Touhou Project character sorter](https://tohosort.frelia.my/) source code.
 
-Visit [endfield.sorter.my.id/](https://endfield.sorter.my.id/)
+Visit [endfield.sorter.my.id](https://endfield.sorter.my.id/)
 
 Latest changelog:<br>
 10 November 2023 - Started the project
@@ -14,8 +14,9 @@ Supports me via [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) or [P
 
 Sebuah penyortir untuk operator Arknights: Endfield dengan fitur dan filter yang lebih banyak yang berdasarkan pada kode sumber [penyortir karakter Touhou Project milik execfera](https://tohosort.frelia.my/).
 
- Kunjungi [endfield.sorter.my.id/](https://endfield.sorter.my.id/)
- Versi bahasa Indonesia belum tersedia.
+Kunjungi [endfield.sorter.my.id](https://endfield.sorter.my.id/)
+
+Versi bahasa Indonesia belum tersedia.
 
 Perubahan terakhir:<br>
 10 November 2023 - Memulai proyek
