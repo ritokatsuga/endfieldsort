@@ -67,7 +67,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Xaihi",
     img: "mybini.png",
     opts: {
-      faction: ['ooso'],
+      faction: ['oso'],
       female: true
     }
   },
@@ -75,7 +75,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Ember",
     img: "ember.png",
     opts: {
-      faction: ['ooso'],
+      faction: ['oso'],
       female: true
     }
   },
