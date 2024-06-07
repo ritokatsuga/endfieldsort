@@ -11,6 +11,4 @@ Sebuah penyortir untuk operator Arknights: Endfield dengan fitur dan filter yang
 
 Kunjungi [endfield.sorter.ufal.my.id](https://endfield.sorter.ufal.my.id/)
 
-Versi bahasa Indonesia belum tersedia.
-
 Dukung saya melalui [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) atau [PayPal (Internasional)](https://paypal.me/ufalsalman)
