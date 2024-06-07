@@ -118,6 +118,7 @@ body {
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
+  border-radius: 22%;
 }
 
 .sorter > .text {
